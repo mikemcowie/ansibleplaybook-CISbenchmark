@@ -1,0 +1,8 @@
+
+-  name: check against CIS benchmarks
+   hosts: all
+   become: true
+   check_mode: yes
+   remote_user: "{{ansible_user}}"
+   roles: 
+      - cis_centos
