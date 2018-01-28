@@ -1,0 +1,3 @@
+- src: git@github.com:mikemcowie/ansible_role_cis_centos.git
+  version: master
+  name: cis_centos
