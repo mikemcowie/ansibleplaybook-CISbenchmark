@@ -1,5 +1,5 @@
 #example inventory
 [servers]
-srv1 ansible_host=192.168.204.42
-srv2 ansible_host=192.168.204.43
-srv3 ansible_host=192.168.204.44
+srv1 ansible_host=192.168.0.42
+srv2 ansible_host=192.168.0.43
+srv3 ansible_host=192.168.0.44
